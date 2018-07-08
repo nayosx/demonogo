@@ -1,5 +1,7 @@
 ﻿caso 3 ......
 Buenas prácticas
+
+estoy en la rama dev archivo 3
 Cada desarrollador o equipo de desarrollo puede hacer uso de Git de la forma que le parezca conveniente. Sin embargo una buena práctica es la siguiente:
 
 Se deben utilizar 4 tipos de ramas: Master, Development, Features, y Hotfix.
